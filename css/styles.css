@@ -1,0 +1,15 @@
+@import url(./variables.css);
+body{
+    margin: 0;
+}
+
+.topNav{
+    background-color: Primary-extra-light;
+}
+.topNav .nav-link {
+    color: Primary;
+}
+
+.topNav .nav-link.active {
+    color: Primary-light;
+}
